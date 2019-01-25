@@ -58,3 +58,7 @@ public static printCards(ElevensBoard board) {
   * e. Which one of the methods that you identified in question 4b above needs to call the `cardIndexes` method before calling the `containsPairSum11` and `containsJQK` methods? Why?
 
       * isLegal because it needs the cards to give the information to make sure the move is legal.
+
+## Feedback
+Very good
+20/20
